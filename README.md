@@ -16,3 +16,4 @@ ScreenShots:
 <img src="screenshot/s4.png" width="500px"/></p>
 <p><img src="screenshot/s5.png" width="500px"/>
 <img src="screenshot/s6.png" width="500px"/></p>
+<p><img src="screenshot/s7.png" width="500px"/></p>
