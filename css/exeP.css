@@ -1,0 +1,39 @@
+*
+{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.container1
+{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+	padding-left: 60px;
+	padding-right: 60px;
+
+}
+
+.card
+{
+	width:  270px;
+	margin: 10px;
+}
+.box:hover
+{	
+	cursor: pointer;
+	transform: scale(1.04);
+	transition: all 1s ease;
+}
+.card h5
+{
+	padding: 10px;
+}
+.card p{
+	padding: 5px;
+}
+h1
+{
+	text-align: center;
+}
